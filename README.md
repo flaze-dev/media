@@ -1,5 +1,5 @@
-# dev-starter
-A starter template for a React Next.js component library. 
+# Flaze Media
+A flaze media library for the web. Support for MediaStreams and MediaRecording. 
 
 ## Next.js
 ```bash 
