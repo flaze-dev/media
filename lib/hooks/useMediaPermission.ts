@@ -1,4 +1,4 @@
-import MediaDevicePermissions, { DeviceType } from "lib/devices/MediaDevicePermissions";
+import MediaDevicePermissions, { DeviceType } from "../devices/MediaDevicePermissions";
 import { useCallback, useEffect, useState } from "react"
 
 
